@@ -12,7 +12,7 @@ __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __we
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4588);
+/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2732);
 /* harmony import */ var _components_ui_carousel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8771);
 /* harmony import */ var _components_ui_section_block__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4521);
 /* harmony import */ var _config_routes__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7507);
@@ -296,7 +296,7 @@ __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __we
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4588);
+/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2732);
 /* harmony import */ var _components_ui_carousel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8771);
 /* harmony import */ var _components_manufacturer_card__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6824);
 /* harmony import */ var _components_ui_section_block__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4521);
@@ -461,7 +461,7 @@ __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __we
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_ui_loaders_product_loader__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7782);
-/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4588);
+/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2732);
 /* harmony import */ var _lib_range_map__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(6786);
 /* harmony import */ var _components_products_cards_card__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4804);
 /* harmony import */ var _components_ui_error_message__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4246);

@@ -28,7 +28,7 @@ __webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __we
 /* harmony import */ var _lib_placeholders__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8609);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(6517);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_10__);
-/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(4588);
+/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(2732);
 /* harmony import */ var _components_ui_loaders_wishlist_loader__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(2954);
 /* harmony import */ var _lib_range_map__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(6786);
 var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_framework_order__WEBPACK_IMPORTED_MODULE_2__]);

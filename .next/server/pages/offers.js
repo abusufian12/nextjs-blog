@@ -342,7 +342,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_seo_seo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4249);
 /* harmony import */ var _components_ui_button__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7896);
 /* harmony import */ var _components_cart_cart_counter_button__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5711);
-/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4588);
+/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2732);
 /* harmony import */ var next_i18next__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1377);
 /* harmony import */ var next_i18next__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_i18next__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _lib_range_map__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(6786);

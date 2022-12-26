@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_ui_loaders_bakery_categories_loader__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6675);
-/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4588);
+/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2732);
 /* harmony import */ var _components_ui_section_block__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4521);
 /* harmony import */ var _components_ui_solid_card_category__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9669);
 var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_ui_solid_card_category__WEBPACK_IMPORTED_MODULE_4__]);
