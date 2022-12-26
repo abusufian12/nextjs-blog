@@ -636,7 +636,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var lodash_isEmpty__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(lodash_isEmpty__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _components_orders_order_details__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(5851);
 /* harmony import */ var _components_orders_order_list_mobile__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1902);
-/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(2732);
+/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(4588);
 /* harmony import */ var _components_layouts_layout__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(3746);
 /* harmony import */ var _components_dashboard_sidebar__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(3116);
 /* harmony import */ var _framework_general_ssr__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(344);

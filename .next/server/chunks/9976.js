@@ -19,7 +19,7 @@ var jsx_runtime_ = __webpack_require__(997);
 // EXTERNAL MODULE: ./src/components/ui/scrollbar.tsx
 var scrollbar = __webpack_require__(1427);
 // EXTERNAL MODULE: ./src/components/ui/not-found.tsx
-var not_found = __webpack_require__(2732);
+var not_found = __webpack_require__(4588);
 // EXTERNAL MODULE: ./src/components/ui/loaders/categories-loader.tsx
 var categories_loader = __webpack_require__(1963);
 // EXTERNAL MODULE: external "next/router"

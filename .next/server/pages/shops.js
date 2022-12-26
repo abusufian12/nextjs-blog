@@ -253,7 +253,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_layouts_layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3746);
 /* harmony import */ var _components_ui_button__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7896);
-/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2732);
+/* harmony import */ var _components_ui_not_found__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4588);
 /* harmony import */ var next_i18next__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1377);
 /* harmony import */ var next_i18next__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(next_i18next__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _lib_range_map__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(6786);
